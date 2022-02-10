@@ -1,1 +1,7 @@
-# stocks-analysis
+# stocks-data-analysis
+
+## Purpose
+
+
+
+
